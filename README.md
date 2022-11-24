@@ -1,3 +1,3 @@
 # learning-shell
-First time to learn shell scripting. 
+First time to learn shell scripting./
 Shell Topics
