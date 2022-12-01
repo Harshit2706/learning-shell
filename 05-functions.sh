@@ -4,7 +4,7 @@ SAMPLE () {
   echo a - $a
   b=20
   # 100 commands
-
+  echo First agruement = $1
 }
 
 
